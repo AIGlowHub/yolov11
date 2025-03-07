@@ -1,0 +1,4 @@
+opencv-python-headless
+torch
+numpy
+ultralytics
